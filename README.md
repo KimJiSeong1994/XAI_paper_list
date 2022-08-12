@@ -9,3 +9,4 @@
 * <a href = "https://aclanthology.org/W17-5221.pdf"> Explaining Recurrent Neural Network Predictions in Sentiment Analysis </a>
 * <a href = "https://www.dbs.ifi.lmu.de/~tresp/papers/ICHI2018.pdf"> Explaining Therapy Predictions with Layer-wise
 Relevance Propagation in Neural Networks </a>
+* <a href = "https://www.mdpi.com/2076-3417/12/1/136"> Explaining Deep Learning Model for Tabular Data Using Layer-Wise Relevance Propagation </a>

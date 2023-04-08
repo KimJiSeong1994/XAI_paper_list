@@ -3,7 +3,6 @@
 **1. Survey**
 * <a href = "https://arxiv.org/pdf/2006.11371.pdf"> Opportunities and Challenges in Explainable Artificial Intelligence - A Survey </a> 
 * <a href = "https://arxiv.org/pdf/2104.00950.pdf"> Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey  </a> 
-
 ---
 **2. Explaining decisions**
 * <a href = "https://arxiv.org/pdf/1512.02479.pdf"> Explaining NonLinear Classification Decisions with Deep Taylor Decomposition </a> :: <a href = "https://melon-buffer-f27.notion.site/Explaining-NonLinear-Classification-Decisions-with-Deep-Taylor-Decomposition-ed82e185965b455198269dd108598e45"> [ paper_review ] </a>

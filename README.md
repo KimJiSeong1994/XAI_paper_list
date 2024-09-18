@@ -1,15 +1,15 @@
 # XAI_papers
 **1. Survey**
-* <a href = "https://arxiv.org/pdf/2006.11371.pdf"> Opportunities and Challenges in Explainable Artificial Intelligence - A Survey </a> 
-* <a href = "https://arxiv.org/pdf/2104.00950.pdf"> Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey  </a> 
+* Das, A., & Rad, P. (2020). Opportunities and challenges in explainable artificial intelligence (xai): A survey. arXiv preprint arXiv:2006.11371. <a href = "https://arxiv.org/pdf/2006.11371.pdf"> [paper] </a> 
+* Rojat, T., Puget, R., Filliat, D., Del Ser, J., Gelin, R., & Díaz-Rodríguez, N. (2021). Explainable artificial intelligence (xai) on timeseries data: A survey. arXiv preprint arXiv:2104.00950. <a href = "https://arxiv.org/pdf/2104.00950.pdf"> [paper] </a> 
 ---
+* Sundararajan, M., Taly, A., & Yan, Q. (2017, July). Axiomatic attribution for deep networks. In International conference on machine learning (pp. 3319-3328). PMLR. <a href = 'https://proceedings.mlr.press/v70/sundararajan17a/sundararajan17a.pdf'> [paper] </a>
 
-* <a href = "https://arxiv.org/pdf/1512.02479.pdf"> Explaining NonLinear Classification Decisions with Deep Taylor Decomposition </a> :: <a href = "https://melon-buffer-f27.notion.site/Explaining-NonLinear-Classification-Decisions-with-Deep-Taylor-Decomposition-ed82e185965b455198269dd108598e45"> [ paper_review ] </a>
-* <a href = "https://aclanthology.org/W17-5221.pdf"> Explaining Recurrent Neural Network Predictions in Sentiment Analysis </a>
-* <a href = "https://www.dbs.ifi.lmu.de/~tresp/papers/ICHI2018.pdf"> Explaining Therapy Predictions with Layer-wise
-Relevance Propagation in Neural Networks </a>
-* <a href = "https://www.mdpi.com/2076-3417/12/1/136"> Explaining Deep Learning Model for Tabular Data Using Layer-Wise Relevance Propagation </a>
-* <a href = "https://arxiv.org/pdf/1602.04938.pdf"> “Why Should I Trust You?” Explaining the Predictions of Any Classifier - LIME </a>
-* <a href = "https://arxiv.org/pdf/1705.07874.pdf"> A Unified Approach to Interpreting Model Predictions - SHAP </a>
-* <a href = 'https://arxiv.org/pdf/2212.11870.pdf'> Impossibility Theorems for Feature Attribution </a>
-* <a href = 'https://arxiv.org/pdf/2401.08534v3.pdf' > DiConStruct : Causal Concept-based Explanations through Black-Box Distillation </a>
+* Montavon, G., Lapuschkin, S., Binder, A., Samek, W., & Müller, K. R. (2017). Explaining nonlinear classification decisions with deep taylor decomposition. Pattern recognition, 65, 211-222. <a href = "https://arxiv.org/pdf/1512.02479.pdf"> [paper] </a> :: <a href = "https://melon-buffer-f27.notion.site/Explaining-NonLinear-Classification-Decisions-with-Deep-Taylor-Decomposition-ed82e185965b455198269dd108598e45"> [ paper_review ] </a>
+* Arras, L., Montavon, G., Müller, K. R., & Samek, W. (2017). Explaining recurrent neural network predictions in sentiment analysis. arXiv preprint arXiv:1706.07206. <a href = "https://aclanthology.org/W17-5221.pdf"> [paper] </a>
+* Yang, Y., Tresp, V., Wunderle, M., & Fasching, P. A. (2018, June). Explaining therapy predictions with layer-wise relevance propagation in neural networks. In 2018 IEEE International Conference on Healthcare Informatics (ICHI) (pp. 152-162). IEEE. <a href = "https://www.dbs.ifi.lmu.de/~tresp/papers/ICHI2018.pdf"> [paper] </a>
+* Ullah, I., Rios, A., Gala, V., & Mckeever, S. (2021). Explaining deep learning models for tabular data using layer-wise relevance propagation. Applied Sciences, 12(1), 136. <a href = "https://www.mdpi.com/2076-3417/12/1/136"> [paper] </a>
+* Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). " Why should i trust you?" Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). <a href = "https://arxiv.org/pdf/1602.04938.pdf"> [paper] </a>
+* Lundberg, S. (2017). A unified approach to interpreting model predictions. arXiv preprint arXiv:1705.07874. <a href = "https://arxiv.org/pdf/1705.07874.pdf"> [paper] </a>
+* Bilodeau, B., Jaques, N., Koh, P. W., & Kim, B. (2024). Impossibility theorems for feature attribution. Proceedings of the National Academy of Sciences, 121(2), e2304406120. <a href = 'https://arxiv.org/pdf/2212.11870.pdf'> [paper] </a>
+* Moreira, R., Bono, J., Cardoso, M., Saleiro, P., Figueiredo, M. A., & Bizarro, P. (2024). DiConStruct: Causal Concept-based Explanations through Black-Box Distillation. arXiv preprint arXiv:2401.08534. <a href = 'https://arxiv.org/pdf/2401.08534v3.pdf' > [paper] </a>
